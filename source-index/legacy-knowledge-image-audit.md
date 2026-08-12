@@ -1,61 +1,39 @@
 # Legacy GPT Knowledge Image Audit
 
-These are the remaining standalone screenshot/image items still attached to GPT Knowledge.
+## Image 1 — legacy-01.png
+- Description: chart explicitly labeled "not valid"
+- Exact instrument/date: UNKNOWN
+- Already in Canonical Visual Atlas: NO
+- Future target master: Canonical Visual Atlas candidate
+- Safe to remove: NO — pending incorporation
 
-Do not remove an image until it has been mapped.
+## Image 2 — legacy-02.png
+- Description: chart explicitly labeled "VALID"
+- Exact instrument/date: UNKNOWN
+- Already in Canonical Visual Atlas: NO
+- Future target master: Canonical Visual Atlas candidate
+- Safe to remove: NO — pending incorporation
 
-## Image 1
-- Position: leftmost thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
+## Image 3 — legacy-03.png
+- Description: "DOES IT LOOK LIKE THIS? YES / NO" red-car recognition cue
+- Future target master: Catalogue / Pattern-Recognition
+- Safe to remove: NO — pending incorporation
 
-## Image 2
-- Position: second thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
+## Image 4 — legacy-04.png
+- Description: HOD / DUMP / PUMP / FRONTSIDE / COIL / BACKSIDE hand-drawn template
+- Future target master: Weekly Process + Catalogue
+- Safe to remove: NO — pending incorporation
 
-## Image 3
-- Position: third thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
+## Image 5 — legacy-05.png
+- Description: FRONTSIDE / BACKSIDE / COIL / PUMP / DUMP / LOD hand-drawn template
+- Future target master: Weekly Process + Catalogue
+- Safe to remove: NO — pending incorporation
 
-## Image 4
-- Position: fourth thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
+## Image 6 — legacy-06.png
+- Description: Monday-Friday Frontside/Backside weekly sequence diagram
+- Future target master: Weekly Process + Catalogue
+- Safe to remove: NO — pending incorporation
 
-## Image 5
-- Position: fifth thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
-
-## Image 6
-- Position: sixth thumbnail
-- Probable description:
-- Exact filename:
-- Already in Canonical Visual Atlas: YES / NO / UNKNOWN
-- Future target master:
-- Safe to remove: YES / NO / UNKNOWN
-
-## Image 7
-- Status: deleted / unrecoverable
-- Action: no further action needed
-
-## Image 8
+## Images 7–8
 - Status: deleted / unrecoverable
 - Action: no further action needed
