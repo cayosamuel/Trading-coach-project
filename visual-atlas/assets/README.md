@@ -4,16 +4,17 @@ This folder contains public-safe chart visuals used by the Canonical Visual Atla
 
 ## Already Added
 
+### Confirmed Valid
+- dj30-2026-08-06-sell.png
+- dj30-2026-08-04-buy.png
+- eurcad-friday-sell-snapshot-1.png
+- eurcad-friday-sell-snapshot-2.png
+
 ### Confirmed Invalid
 - april-7-2026-invalid-index-setups.pdf
 - june-24-2026-invalid-index-setups.pdf
 
 ## Still To Import
-
-### Confirmed Valid
-- DJ30 — August 6, 2026 — SELL SETUP
-- DJ30 — August 4, 2026 — BUY SETUP
-- EURCAD — Friday — SELL SETUP
 
 ### Contrast Drill
 - Canonical SELL vs Look-Alike
