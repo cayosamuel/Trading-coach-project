@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "examples": [
+    {
+      "id": "dj30-2026-08-06-sell",
+      "category": "confirmed-valid",
+      "title": "DJ30 — August 6, 2026 — SELL SETUP",
+      "verdict": "SELL SETUP",
+      "caption": "confirmed-valid/dj30-2026-08-06-sell.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-valid/dj30-2026-08-06-sell.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "dj30-2026-08-04-buy",
+      "category": "confirmed-valid",
+      "title": "DJ30 — August 4, 2026 — BUY SETUP",
+      "verdict": "BUY SETUP",
+      "caption": "confirmed-valid/dj30-2026-08-04-buy.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-valid/dj30-2026-08-04-buy.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "eurcad-friday-sell",
+      "category": "confirmed-valid",
+      "title": "EURCAD — Friday — SELL SETUP",
+      "verdict": "SELL SETUP",
+      "caption": "confirmed-valid/eurcad-friday-sell.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-valid/eurcad-friday-sell-snapshot-1.png",
+          "type": "image"
+        },
+        {
+          "path": "assets/confirmed-valid/eurcad-friday-sell-snapshot-2.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "nas100-2026-04-07-no-setup",
+      "category": "confirmed-invalid",
+      "title": "NAS100 — April 7, 2026 — NO SETUP",
+      "verdict": "NO SETUP",
+      "caption": "confirmed-invalid/nas100-2026-04-07-no-setup.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
+          "type": "pdf",
+          "pages": [1]
+        }
+      ]
+    },
+    {
+      "id": "sp500-2026-04-07-no-setup",
+      "category": "confirmed-invalid",
+      "title": "SP500 — April 7, 2026 — NO SETUP",
+      "verdict": "NO SETUP",
+      "caption": "confirmed-invalid/sp500-2026-04-07-no-setup.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
+          "type": "pdf",
+          "pages": [2]
+        }
+      ]
+    },
+    {
+      "id": "dj30-2026-04-07-no-setup",
+      "category": "confirmed-invalid",
+      "title": "DJ30 — April 7, 2026 — NO SETUP",
+      "verdict": "NO SETUP",
+      "caption": "confirmed-invalid/dj30-2026-04-07-no-setup.md",
+      "assets": [
+        {
+          "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
+          "type": "pdf",
+          "pages": [4]
+        }
+      ]
+    },
+    {
+      "id": "june24-indexes-no-setup",
+      "category": "confirmed-invalid",
+      "title": "June 24, 2026 — NAS100 & SP500 — NO SETUP",
+      "verdict": "NO SETUP",
+      "captions": [
+        "confirmed-invalid/nas100-2026-06-24-no-setup.md",
+        "confirmed-invalid/sp500-2026-06-24-no-setup.md"
+      ],
+      "assets": [
+        {
+          "path": "assets/confirmed-invalid/june-24-2026-invalid-index-setups.pdf",
+          "type": "pdf",
+          "pages": [1, 2]
+        }
+      ]
+    },
+    {
+      "id": "sell-vs-lookalike",
+      "category": "contrast-drills",
+      "title": "Canonical SELL vs Convincing Look-Alike",
+      "verdict": "SELL SETUP vs NO SETUP",
+      "caption": "contrast-drills/sell-vs-lookalike.md",
+      "assets": [
+        {
+          "path": "assets/contrast-drills/sell-canonical.png",
+          "type": "image"
+        },
+        {
+          "path": "assets/contrast-drills/sell-lookalike-no-setup.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "gold-2026-04-06-to-10-disqualified",
+      "category": "weekly-disqualification",
+      "title": "GOLD — April 6–10, 2026 — WEEKLY DISQUALIFICATION",
+      "verdict": "NO SETUP",
+      "caption": "weekly-disqualification/gold-2026-04-06-to-10-disqualified.md",
+      "assets": [
+        {
+          "path": "assets/weekly-disqualification/gold-april-6-10-2026-weekly-disqualification.pdf",
+          "type": "pdf",
+          "pages": [27]
+        }
+      ]
+    }
+  ]
+}
