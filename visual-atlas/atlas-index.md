@@ -1,5 +1,19 @@
 # Canonical Visual Atlas
 
+## Institutional Grid Reference
+
+- 00 = solid / continuous pink horizontal line
+- 50 = long-dashed / segmented pink horizontal line
+- 25 or 75 = short-dashed / dotted pink horizontal line
+- One complete upward grid sequence: 00 -> 25 -> 50 -> 75 -> next 00
+- One complete downward grid sequence: 00 -> 75 -> 50 -> 25 -> next 00
+- 00 / 50 are Tier 1.
+- 25 / 75 are Tier 2 and remain fully valid.
+- Use surrounding grid context to distinguish 25 from 75.
+- Green/teal lines have no default meaning; their identity must come from context, labels, annotation, or a separately taught rule.
+
+---
+
 ## Decision Rule
 
 Every setup is judged using:

@@ -2,6 +2,22 @@
   "version": 1,
   "examples": [
     {
+      "id": "institutional-grid-levels",
+      "category": "reference-rules",
+      "title": "Institutional Grid — 00 / 25 / 50 / 75 Visual Encoding",
+      "caption": "institutional-grid-levels.md",
+      "assets": [
+        {
+          "path": "assets/institutional-grid-single-box.png",
+          "type": "image"
+        },
+        {
+          "path": "assets/institutional-grid-repeating-boxes.png",
+          "type": "image"
+        }
+      ]
+    },
+    {
       "id": "dj30-2026-08-06-sell",
       "category": "confirmed-valid",
       "title": "DJ30 — August 6, 2026 — SELL SETUP",
@@ -54,7 +70,9 @@
         {
           "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
           "type": "pdf",
-          "pages": [1]
+          "pages": [
+            1
+          ]
         }
       ]
     },
@@ -68,7 +86,9 @@
         {
           "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
           "type": "pdf",
-          "pages": [2]
+          "pages": [
+            2
+          ]
         }
       ]
     },
@@ -82,7 +102,9 @@
         {
           "path": "assets/confirmed-invalid/april-7-2026-invalid-index-setups.pdf",
           "type": "pdf",
-          "pages": [4]
+          "pages": [
+            4
+          ]
         }
       ]
     },
@@ -99,7 +121,10 @@
         {
           "path": "assets/confirmed-invalid/june-24-2026-invalid-index-setups.pdf",
           "type": "pdf",
-          "pages": [1, 2]
+          "pages": [
+            1,
+            2
+          ]
         }
       ]
     },
@@ -130,7 +155,9 @@
         {
           "path": "assets/weekly-disqualification/gold-april-6-10-2026-weekly-disqualification.pdf",
           "type": "pdf",
-          "pages": [27]
+          "pages": [
+            27
+          ]
         }
       ]
     }

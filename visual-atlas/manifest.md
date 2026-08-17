@@ -1,5 +1,22 @@
 # Canonical Visual Atlas Manifest
 
+## Reference Rules
+
+### Institutional Grid — 00 / 25 / 50 / 75
+
+- Category: reference-rules
+- 00 = solid / continuous pink horizontal line
+- 50 = long-dashed / segmented pink horizontal line
+- 25 or 75 = short-dashed / dotted pink horizontal line
+- Moving upward through one complete box: 00 -> 25 -> 50 -> 75 -> next 00
+- Moving downward: 00 -> 75 -> 50 -> 25 -> next 00
+- Tier 1: 00 / 50
+- Tier 2: 25 / 75 — fully valid, lower priority only
+- Determine 25 vs 75 from surrounding grid context.
+- Green/teal horizontal lines have no default meaning; color alone does not identify a closing-price reference.
+
+---
+
 ## Confirmed Valid
 
 ### DJ30 — August 6, 2026
