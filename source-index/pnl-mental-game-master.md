@@ -39,3 +39,22 @@ Technical setup recognition and execution quality are intentionally reviewed sep
 A losing result does not automatically mean setup recognition was wrong.
 
 Execution review focuses on the first break in the process chain rather than judging validity from P&L alone.
+
+## Status
+
+Master File 4 is operational and rebuildable.
+
+Verified components:
+
+- public source layer
+- private manifest
+- Python builder
+- one-command rebuild wrapper
+- stable text output
+- latest text output
+
+Final integrity checks confirmed:
+
+- all manifest-listed sources exist
+- stable and latest outputs match
+- the rebuild works independently of the current working directory
