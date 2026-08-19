@@ -6,6 +6,20 @@ This file defines how the institutional 00 / 25 / 50 / 75 grid is visually repre
 
 This is a chart-reading rule used for WHERE validation.
 
+## Exact Line-Style Lock
+
+Use this mapping exactly:
+
+- 00 = solid / continuous pink horizontal line
+- 50 = long-dashed / segmented pink horizontal line
+- 25 or 75 = short-dashed / dotted pink horizontal line
+
+Do not describe 50 as a solid line.
+
+Do not infer these identities from line thickness alone.
+
+Line style and position inside the repeating 00-to-00 grid control the identification.
+
 ## Visual Encoding
 
 ### 00
