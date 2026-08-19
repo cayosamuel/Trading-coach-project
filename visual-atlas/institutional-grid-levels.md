@@ -6,6 +6,32 @@ This file defines how the institutional 00 / 25 / 50 / 75 grid is visually repre
 
 This is a chart-reading rule used for WHERE validation.
 
+## Exact Orientation Lock
+
+Read the repeating institutional grid as follows:
+
+### TOP -> BOTTOM
+
+00
+-> 75
+-> 50
+-> 25
+-> next 00
+
+### BOTTOM -> TOP
+
+00
+-> 25
+-> 50
+-> 75
+-> next 00
+
+25 and 75 use the same short-dashed / dotted line style.
+
+Their identity comes from position relative to the surrounding 00 levels and the central 50.
+
+Do not reverse 25 and 75 when reading the grid from top to bottom.
+
 ## Exact Line-Style Lock
 
 Use this mapping exactly:
